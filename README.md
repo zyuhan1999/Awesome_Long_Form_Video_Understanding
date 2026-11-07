@@ -106,6 +106,7 @@ This repository curates a collection of research works specifically focused on l
 
 ***Latest Papers (after 2023)***
 
+* [Dual DETRs for Multi-Label Temporal Action Detection](https://openaccess.thecvf.com/content/CVPR2024/html/Zhu_Dual_DETRs_for_Multi-Label_Temporal_Action_Detection_CVPR_2024_paper.html), CVPR 2024.
 * ETAD: Training Action Detection End to End on a Laptop, CVPR 2023.
 * TriDet: Temporal Action Detection With Relative Boundary Modeling, CVPR 2023.
 * Distilling Vision-Language Pre-training to Collaborate with Weakly-Supervised Temporal Action Localization, CVPR 2023.
